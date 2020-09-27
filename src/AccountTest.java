@@ -27,12 +27,16 @@ public class AccountTest {
 		
 		// display the name stored in object
 		
-		//Constructors
-		Accounts account1=new Accounts("Test acc1");
-		Accounts account2=new Accounts("Test acc2");
+		// Example 2
+//		//Constructors
+//		Accounts account1=new Accounts("Test acc1");
+//		Accounts account2=new Accounts("Test acc2");
+//		
+//		System.out.printf("Acc1 name: %s%n", account1.getName());
+//		System.out.printf("Acc2 name: %s%n", account2.getName());
+
 		
-		System.out.printf("Acc1 name: %s%n", account1.getName());
-		System.out.printf("Acc2 name: %s%n", account2.getName());
+//		Example 3
 
 
 	}
